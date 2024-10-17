@@ -1,4 +1,4 @@
-###Tools and frameworks description
+### Tools and frameworks description
 
 E2E web UI test is created using Selemiun WebDriver and Serenity Framework. Programming language is Java.
 Test Scenario is described in Gherkin language, follows BDD pattern. Cucumber framework is used.
